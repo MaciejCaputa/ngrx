@@ -1,5 +1,5 @@
-import { Component, ChangeDetectionStrategy, OnInit } from '@angular/core';
-import { UsersService } from 'src/app/services';
+import { Component, ChangeDetectionStrategy } from '@angular/core';
+import { UsersService } from '../../services';
 
 @Component({
   selector: 'app-user',
